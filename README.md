@@ -10,7 +10,7 @@ https://github.com/Chizaram-Julius/habit-tracker-pwa
 
 ## Demo Video (≤ 2 minutes)
 
-
+https://drive.google.com/file/d/13vgJQpuXPPz-Lc3ZAQoyh_bVxE0nSDzk/view?usp=sharing
 ---
 
 ## 📌 Project Overview
@@ -309,8 +309,3 @@ Implemented:
 * No external APIs used
 * Focused on deterministic behavior for testing
 
----
-
-## 🟢 Final Note
-
-This project strictly follows the HNG Stage 3 Technical Requirements Document and implements all required features, tests, and behaviors as specified.
