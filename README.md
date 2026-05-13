@@ -2,7 +2,7 @@
 
 ## Live URL
 
-https://chizaram-julius.github.io/habit-tracker-pwa
+https://habit-tracker-pwa-idea.netlify.app/
 
 ## GitHub Repository
 
