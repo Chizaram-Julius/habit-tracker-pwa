@@ -7,10 +7,6 @@ https://habit-tracker-pwa-idea.netlify.app/
 ## GitHub Repository
 
 https://github.com/Chizaram-Julius/habit-tracker-pwa
-
-## Demo Video (≤ 2 minutes)
-
-https://drive.google.com/file/d/13vgJQpuXPPz-Lc3ZAQoyh_bVxE0nSDzk/view?usp=sharing
 ---
 
 ## 📌 Project Overview
